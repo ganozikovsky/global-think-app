@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": false,
+    "exportall.config.folderListener": [
+        "/src/common/decorators",
+        "/src/common/dto"
+    ]
+}
